@@ -1,0 +1,164 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+naruto1
+  rotate: false
+  xy: 1, 551
+  size: 374, 450
+  orig: 374, 450
+  offset: 0, 0
+  index: -1
+luffy3
+  rotate: false
+  xy: 1, 69
+  size: 336, 480
+  orig: 336, 480
+  offset: 0, 0
+  index: -1
+naruto2
+  rotate: false
+  xy: 377, 551
+  size: 337, 450
+  orig: 337, 450
+  offset: 0, 0
+  index: -1
+goku3
+  rotate: false
+  xy: 716, 540
+  size: 307, 461
+  orig: 307, 461
+  offset: 0, 0
+  index: -1
+goku2
+  rotate: false
+  xy: 339, 69
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+luffy1
+  rotate: false
+  xy: 661, 58
+  size: 320, 480
+  orig: 320, 480
+  offset: 0, 0
+  index: -1
+HoverBtn
+  rotate: false
+  xy: 1, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+NormalBtn
+  rotate: false
+  xy: 983, 506
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 1, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 35, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+medal
+  rotate: false
+  xy: 983, 472
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mute
+  rotate: false
+  xy: 35, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+refesh
+  rotate: false
+  xy: 69, 35
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sound
+  rotate: false
+  xy: 983, 438
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tick
+  rotate: false
+  xy: 69, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+menuskin
+  rotate: false
+  xy: 103, 43
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+
+textures2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+luffy2
+  rotate: false
+  xy: 1, 453
+  size: 307, 461
+  orig: 307, 461
+  offset: 0, 0
+  index: -1
+naruto3
+  rotate: false
+  xy: 1, 1
+  size: 300, 450
+  orig: 300, 450
+  offset: 0, 0
+  index: -1
+goku1
+  rotate: false
+  xy: 310, 486
+  size: 306, 428
+  orig: 306, 428
+  offset: 0, 0
+  index: -1
+goku
+  rotate: false
+  xy: 618, 714
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+luffy
+  rotate: false
+  xy: 618, 512
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+naruto
+  rotate: false
+  xy: 618, 310
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
